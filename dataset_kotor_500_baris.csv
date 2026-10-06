@@ -1,0 +1,576 @@
+ID_Transaksi,Tanggal,Produk,Jumlah,Harga_Satuan,Kota_Toko
+TRX-5325,08/08/2025,MONITOR 24 INCH,8.0,1750000,Surabaya 
+,"Aug 4, 2025",Laptop,3.0,Rp 8.500.000,Surabaya 
+TRX-2269,2025-09-13,Monitor 24 Inch,1.0,1750000,Yogyakarta
+TRX-1018,23/05/2025,Monitor 24 Inch,-4.0,Rp 1.750.000, Bandung
+TRX-9837,17/11/2025,MOUSE WIRELESS,2.0,Rp 150.000, Medan 
+TRX-5564,03/02/2025,LAPTOP,2.0,8500000, Medan 
+TRX-8612,26/08/2025,,2.0,, Medan 
+TRX-5374,"Sep 24, 2025",,,8500000, Medan 
+TRX-5061,"Jan 14, 2025",laptop,8.0,Rp 8.500.000,Yogyakarta
+,"Aug 25, 2025",KEYBOARD MEKANIK,10.0,, Bandung
+TRX-5000,2025-03-25,Monitor 24 Inch,2.0,Rp 1.750.000,Yogyakarta
+TRX-2858,"Apr 19, 2025",laptop,4.0,8500000, Bandung
+TRX-1685,2025-07-03,   Laptop ,4.0,8500000, Bandung
+TRX-2647,"Jul 5, 2025",,9.0,8500000,
+TRX-2622,"Nov 25, 2025",   Laptop ,4.0,,Jakarta
+TRX-8264,"Feb 16, 2025",Mouse Wireless,1.0,150000, Medan 
+TRX-1475,14/07/2025,mouse wireless,8.0,150000,Surabaya 
+TRX-9797,2025-05-11,Headset Gaming,9.0,350000, Bandung
+TRX-3200,2025-10-05,,4.0,8500000,Surabaya 
+TRX-7745,"Dec 16, 2025",mouse wireless,7.0,150000, Bandung
+TRX-2771,,HEADSET GAMING,2.0,Rp 350.000, Bandung
+TRX-5562,04/04/2025,Monitor 24 Inch,9.0,Rp 1.750.000, Medan 
+TRX-1601,19/01/2025,Headset Gaming,4.0,350000, Medan 
+TRX-4997,24/06/2025,MONITOR 24 INCH,4.0,1750000, Medan 
+,2025-09-21,Keyboard Mekanik,7.0,450000,Surabaya 
+TRX-5920,27/11/2025,   Laptop ,9.0,8500000,Jakarta
+,12/02/2025,Laptop,4.0,, Bandung
+TRX-7464,,Monitor 24 Inch,6.0,1750000,Jakarta
+TRX-1090,14/05/2025,Keyboard Mekanik,9.0,Rp 450.000,Surabaya 
+TRX-9727,2025-10-02,   Laptop ,5.0,8500000,Surabaya 
+TRX-6590,"Oct 24, 2025",Headset Gaming,10.0,Rp 350.000,Jakarta
+TRX-1659,"Jun 27, 2025",Keyboard Mekanik,,Rp 450.000, Medan 
+TRX-1042,"Feb 16, 2025",Keyboard Mekanik,7.0,450000,Yogyakarta
+TRX-4868,"Nov 26, 2025",KEYBOARD MEKANIK,3.0,450000,Jakarta
+TRX-5198,21/09/2025,Headset Gaming,5.0,350000,Yogyakarta
+TRX-9479,"Feb 13, 2025",MOUSE WIRELESS,10.0,, Medan 
+TRX-1106,,Mouse Wireless,9.0,,Yogyakarta
+TRX-4295,"Mar 5, 2025",LAPTOP,1.0,8500000,Jakarta
+TRX-4811,2025-01-05,Laptop,3.0,8500000, Medan 
+TRX-3532,2025-01-11,   Headset Gaming ,5.0,Rp 350.000,Yogyakarta
+TRX-1349,"Oct 5, 2025",,5.0,8500000,Yogyakarta
+TRX-8451,22/10/2025,mouse wireless,10.0,150000,Yogyakarta
+,"Sep 4, 2025",Laptop,10.0,, Bandung
+TRX-9947,15/09/2025,Laptop,,Rp 8.500.000, Medan 
+TRX-6039,"Jan 6, 2025",Keyboard Mekanik,7.0,450000,Surabaya 
+TRX-7570,02/01/2025,KEYBOARD MEKANIK,9.0,450000,Jakarta
+TRX-3851,2025-01-26,Headset Gaming,6.0,Rp 350.000,Jakarta
+TRX-7211,"May 7, 2025",laptop,10.0,8500000,Yogyakarta
+TRX-4946,10/11/2025,MONITOR 24 INCH,6.0,1750000, Medan 
+TRX-6039,"Jan 6, 2025",Keyboard Mekanik,7.0,450000,Surabaya 
+TRX-3683,2025-02-23,headset gaming,1.0,Rp 350.000, Medan 
+TRX-7211,"May 7, 2025",laptop,10.0,8500000,Yogyakarta
+TRX-3531,2025-02-21,HEADSET GAMING,1.0,350000,Surabaya 
+TRX-2169,"Jul 15, 2025",HEADSET GAMING,7.0,,Yogyakarta
+TRX-3973,2025-05-19,Mouse Wireless,10.0,Rp 150.000, Bandung
+TRX-3240,"Jun 7, 2025",   Headset Gaming ,8.0,Rp 350.000,
+TRX-2235,20/06/2025,MOUSE WIRELESS,2.0,150000,Jakarta
+TRX-9117,2025-04-15,headset gaming,7.0,350000, Medan 
+TRX-4644,"Oct 17, 2025",laptop,4.0,Rp 8.500.000, Bandung
+TRX-6539,,HEADSET GAMING,6.0,350000, Medan 
+TRX-6155,"Sep 2, 2025",headset gaming,2.0,Rp 350.000, Medan 
+TRX-7537,2025-12-08,headset gaming,9.0,Rp 350.000,Yogyakarta
+TRX-8253,13/06/2025,Keyboard Mekanik,5.0,450000, Medan 
+TRX-2679,2025-04-11,   Laptop ,9.0,Rp 8.500.000, Bandung
+TRX-8962,02/04/2025,Laptop,2.0,,Surabaya 
+TRX-8606,,HEADSET GAMING,9.0,350000,Jakarta
+TRX-5847,"Jan 7, 2025",Monitor 24 Inch,1.0,1750000,Surabaya 
+,"Feb 17, 2025",Monitor 24 Inch,8.0,1750000, Bandung
+TRX-4673,2025-10-24,Mouse Wireless,3.0,150000,Yogyakarta
+TRX-5563,19/11/2025,Laptop (Diskon),3.0,Rp 8.500.000, Bandung
+TRX-7389,"Apr 26, 2025",MONITOR 24 INCH,5.0,1750000,Jakarta
+TRX-9821,,keyboard mekanik,9.0,450000, Medan 
+TRX-3615,"Sep 4, 2025",MOUSE WIRELESS,,Rp 150.000, Medan 
+TRX-7932,2025-05-10,   Monitor 24 Inch ,9.0,Rp 1.750.000,Yogyakarta
+TRX-4115,"Dec 16, 2025",Headset Gaming,7.0,350000, Medan 
+TRX-3607,22/08/2025,,8.0,Rp 8.500.000, Medan 
+TRX-9595,17/11/2025,Monitor 24 Inch,4.0,Rp 1.750.000,
+TRX-5930,2025-01-11,Laptop,7.0,8500000,
+TRX-5901,2025-10-20,   Keyboard Mekanik ,4.0,450000,Jakarta
+,10/02/2025,   Mouse Wireless ,10.0,150000, Bandung
+TRX-6147,2025-06-10,Mouse Wireless,10.0,150000,Jakarta
+TRX-5479,17/08/2025,headset gaming,5.0,350000,Yogyakarta
+TRX-4164,2025-11-26,Keyboard Mekanik,,450000, Medan 
+TRX-1651,2025-11-13,laptop,10.0,8500000, Medan 
+TRX-5118,26/12/2025,mouse wireless,9.0,150000, Medan 
+TRX-7686,,,5.0,8500000,Surabaya 
+TRX-8541,25/05/2025,   Headset Gaming ,6.0,Rp 350.000,Jakarta
+TRX-8359,2025-03-09,monitor 24 inch,6.0,Rp 1.750.000,Jakarta
+TRX-9903,13/07/2025,LAPTOP,1.0,8500000, Bandung
+,21/01/2025,Mouse Wireless,706.0,Rp 150.000, Bandung
+TRX-3041,2025-06-27,Keyboard Mekanik,3.0,450000,Yogyakarta
+,"Jun 19, 2025",HEADSET GAMING,10.0,Rp 350.000,Jakarta
+TRX-7951,,headset gaming,7.0,350000, Medan 
+TRX-8434,2025-02-14,Mouse Wireless,8.0,150000, Medan 
+TRX-6934,"Aug 1, 2025",laptop,1.0,8500000,Jakarta
+TRX-8956,,headset gaming,,350000, Medan 
+TRX-4571,21/01/2025,Headset Gaming,8.0,350000, Bandung
+TRX-4116,2025-11-16,MOUSE WIRELESS,4.0,Rp 150.000,Surabaya 
+TRX-2638,2025-12-27,Mouse Wireless (Diskon),-1.0,150000, Medan 
+TRX-1832,"Apr 18, 2025",   Mouse Wireless ,10.0,150000,Yogyakarta
+TRX-1006,"Sep 13, 2025",,7.0,8500000, Medan 
+TRX-1803,2025-04-18,Monitor 24 Inch (Diskon),5.0,1750000, Medan 
+TRX-4630,2025-10-24,   Monitor 24 Inch ,8.0,Rp 1.750.000,Yogyakarta
+TRX-9835,2025-01-16,HEADSET GAMING,10.0,350000,Yogyakarta
+TRX-7684,02/09/2025,Mouse Wireless (Diskon),1.0,Rp 150.000, Medan 
+TRX-5342,2025-01-13,Mouse Wireless,1.0,Rp 150.000, Medan 
+TRX-7381,2025-05-28,HEADSET GAMING,3.0,Rp 350.000, Bandung
+TRX-7049,2025-02-25,MONITOR 24 INCH,2.0,1750000, Medan 
+TRX-1042,"Feb 16, 2025",Keyboard Mekanik,7.0,450000,Yogyakarta
+TRX-1423,05/09/2025,LAPTOP,10.0,8500000,Yogyakarta
+TRX-6992,2025-12-05,Headset Gaming,2.0,350000,Surabaya 
+TRX-3705,2025-04-25,monitor 24 inch,2.0,1750000, Medan 
+TRX-7624,"Feb 5, 2025",   Keyboard Mekanik ,5.0,Rp 450.000,Jakarta
+,02/02/2025,Keyboard Mekanik,896.0,Rp 450.000, Medan 
+TRX-8564,"Sep 5, 2025",,5.0,8500000, Medan 
+TRX-2832,09/04/2025,Headset Gaming (Diskon),6.0,350000,Surabaya 
+TRX-9486,12/09/2025,headset gaming,5.0,, Medan 
+TRX-9317,"Oct 20, 2025",keyboard mekanik,4.0,450000,
+TRX-8316,"Dec 21, 2025",,10.0,Rp 8.500.000,Surabaya 
+TRX-3927,"Apr 13, 2025",MOUSE WIRELESS,5.0,Rp 150.000,Jakarta
+TRX-7224,"Jan 24, 2025",mouse wireless,9.0,150000,Jakarta
+TRX-5272,2025-10-22,,8.0,8500000,Surabaya 
+TRX-9955,27/04/2025,Laptop,,8500000, Bandung
+TRX-4945,14/09/2025,Mouse Wireless,3.0,150000, Medan 
+TRX-7211,"Aug 2, 2025",Monitor 24 Inch,5.0,1750000,Yogyakarta
+TRX-1514,"Oct 15, 2025",headset gaming,1279.0,350000, Medan 
+TRX-4475,"Jun 1, 2025",Keyboard Mekanik,8.0,450000,
+TRX-9883,17/03/2025,Keyboard Mekanik,3.0,Rp 450.000,Jakarta
+TRX-1841,"Jun 18, 2025",Keyboard Mekanik,9.0,Rp 450.000,Yogyakarta
+,,,1052.0,8500000,Surabaya 
+TRX-7216,"Jun 14, 2025",Mouse Wireless (Diskon),,150000,Jakarta
+TRX-1409,,Monitor 24 Inch,4.0,1750000,Jakarta
+TRX-7211,"Aug 2, 2025",Monitor 24 Inch,5.0,1750000,Yogyakarta
+TRX-6718,01/06/2025,monitor 24 inch,7.0,1750000, Bandung
+TRX-9098,18/05/2025,Laptop (Diskon),9.0,8500000,Yogyakarta
+TRX-5891,,monitor 24 inch,5.0,1750000,Surabaya 
+TRX-2139,2025-03-03,monitor 24 inch,,1750000, Bandung
+TRX-7622,06/07/2025,KEYBOARD MEKANIK,6.0,Rp 450.000, Medan 
+TRX-3503,2025-02-15,MOUSE WIRELESS,3.0,150000,Surabaya 
+TRX-2160,"Jun 3, 2025",Laptop (Diskon),6.0,8500000,Jakarta
+TRX-5906,,HEADSET GAMING,4.0,350000, Medan 
+TRX-2213,07/04/2025,,9.0,8500000,Surabaya 
+TRX-9785,,   Headset Gaming ,10.0,Rp 350.000, Medan 
+TRX-6442,"Aug 23, 2025",LAPTOP,10.0,8500000, Bandung
+TRX-3153,"Oct 24, 2025",Monitor 24 Inch,9.0,Rp 1.750.000,Surabaya 
+TRX-9666,,KEYBOARD MEKANIK,8.0,Rp 450.000, Bandung
+TRX-5295,"Nov 16, 2025",Headset Gaming,4.0,350000,Jakarta
+TRX-6238,"Dec 15, 2025",laptop,2.0,Rp 8.500.000,Yogyakarta
+TRX-6491,"Aug 23, 2025",Keyboard Mekanik (Diskon),9.0,Rp 450.000, Bandung
+TRX-4114,"Jan 21, 2025",   Laptop ,,, Medan 
+TRX-4696,25/01/2025,Mouse Wireless,4.0,Rp 150.000,Jakarta
+TRX-3573,"May 18, 2025",MOUSE WIRELESS,5.0,150000,Jakarta
+TRX-2876,,   Mouse Wireless ,6.0,Rp 150.000,Jakarta
+TRX-7046,17/09/2025,   Laptop ,,Rp 8.500.000, Bandung
+TRX-3266,2025-11-16,Headset Gaming,1.0,350000,Jakarta
+TRX-8749,"Dec 11, 2025",Laptop,9.0,Rp 8.500.000, Bandung
+TRX-6198,,mouse wireless,,150000, Medan 
+TRX-4872,12/09/2025,HEADSET GAMING,,Rp 350.000,Surabaya 
+TRX-4788,16/04/2025,monitor 24 inch,8.0,1750000, Medan 
+TRX-2480,2025-09-19,Keyboard Mekanik (Diskon),9.0,Rp 450.000,Yogyakarta
+TRX-3492,13/04/2025,HEADSET GAMING,4.0,350000, Bandung
+TRX-7561,"Jun 10, 2025",Mouse Wireless,1.0,150000,Jakarta
+TRX-9379,,mouse wireless,10.0,150000,Surabaya 
+TRX-8690,"Aug 17, 2025",Mouse Wireless,7.0,150000,Jakarta
+TRX-9785,23/03/2025,HEADSET GAMING,6.0,, Medan 
+TRX-1986,,monitor 24 inch,10.0,Rp 1.750.000, Medan 
+TRX-3522,"Aug 4, 2025",monitor 24 inch,10.0,Rp 1.750.000, Bandung
+TRX-6654,"Jun 13, 2025",LAPTOP,10.0,8500000,Yogyakarta
+TRX-6038,"Feb 12, 2025",Monitor 24 Inch,7.0,,Yogyakarta
+TRX-4263,"Oct 24, 2025",monitor 24 inch,10.0,,Surabaya 
+TRX-7232,26/06/2025,Keyboard Mekanik (Diskon),9.0,450000, Medan 
+TRX-8699,2025-11-17,monitor 24 inch,7.0,,Jakarta
+TRX-3063,2025-02-10,Monitor 24 Inch,4.0,1750000,Yogyakarta
+TRX-2070,23/05/2025,Keyboard Mekanik,1.0,450000,Jakarta
+TRX-2753,05/03/2025,MONITOR 24 INCH,3.0,1750000, Medan 
+,2025-05-13,MONITOR 24 INCH,7.0,1750000,Surabaya 
+TRX-9318,2025-02-18,MOUSE WIRELESS,3.0,150000,Yogyakarta
+TRX-5526,"Mar 7, 2025",Mouse Wireless (Diskon),8.0,Rp 150.000,Jakarta
+TRX-2229,05/02/2025,HEADSET GAMING,,350000, Bandung
+TRX-8616,28/02/2025,Mouse Wireless (Diskon),1.0,150000,Jakarta
+TRX-9042,"Dec 5, 2025",Headset Gaming,6.0,350000,Yogyakarta
+TRX-1888,2025-04-08,Monitor 24 Inch,10.0,Rp 1.750.000, Bandung
+TRX-4155,"Nov 1, 2025",MONITOR 24 INCH,6.0,Rp 1.750.000,
+TRX-3222,"Feb 12, 2025",Keyboard Mekanik,3.0,450000,Jakarta
+TRX-2924,06/06/2025,Monitor 24 Inch (Diskon),3.0,1750000, Medan 
+TRX-8973,18/12/2025,Mouse Wireless,1.0,150000,Yogyakarta
+TRX-5002,2025-04-11,Laptop,9.0,Rp 8.500.000, Medan 
+TRX-8616,28/02/2025,Mouse Wireless (Diskon),1.0,150000,Jakarta
+TRX-1434,,Monitor 24 Inch (Diskon),10.0,Rp 1.750.000,Surabaya 
+TRX-5837,"Dec 4, 2025",MONITOR 24 INCH,1091.0,Rp 1.750.000,Jakarta
+TRX-7201,13/07/2025,monitor 24 inch,1406.0,1750000,Jakarta
+TRX-3532,2025-01-11,   Headset Gaming ,5.0,Rp 350.000,Yogyakarta
+,"Dec 27, 2025",Mouse Wireless,,150000, Medan 
+TRX-6573,2025-03-28,KEYBOARD MEKANIK,10.0,450000,Yogyakarta
+TRX-2341,2025-05-20,Keyboard Mekanik,,Rp 450.000,Yogyakarta
+TRX-5425,2025-10-27,Mouse Wireless,8.0,Rp 150.000,Surabaya 
+TRX-2612,"Mar 21, 2025",laptop,8.0,8500000,Surabaya 
+TRX-4978,2025-06-17,Mouse Wireless,4.0,150000,Jakarta
+TRX-4908,"Oct 9, 2025",Monitor 24 Inch,3.0,Rp 1.750.000,Yogyakarta
+TRX-3621,"Oct 8, 2025",Headset Gaming,5.0,350000, Medan 
+TRX-9976,2025-10-02,mouse wireless,6.0,,Yogyakarta
+TRX-4814,2025-10-17,MONITOR 24 INCH,6.0,1750000, Medan 
+TRX-1645,2025-07-02,Monitor 24 Inch,5.0,1750000,Jakarta
+TRX-3979,"Oct 22, 2025",Monitor 24 Inch (Diskon),1.0,Rp 1.750.000,Surabaya 
+TRX-5262,2025-03-11,   Headset Gaming ,5.0,Rp 350.000, Bandung
+TRX-3287,2025-11-25,Monitor 24 Inch,1368.0,1750000, Bandung
+TRX-3870,23/03/2025,Mouse Wireless,4.0,Rp 150.000, Bandung
+TRX-8141,07/03/2025,KEYBOARD MEKANIK,5.0,, Medan 
+TRX-8905,"Aug 5, 2025",MOUSE WIRELESS,9.0,150000, Medan 
+TRX-1606,2025-06-05,Mouse Wireless (Diskon),,Rp 150.000,Surabaya 
+TRX-7798,02/07/2025,Keyboard Mekanik (Diskon),2.0,450000, Medan 
+TRX-5114,25/12/2025,MOUSE WIRELESS,2.0,150000,Surabaya 
+TRX-7615,26/11/2025,KEYBOARD MEKANIK,1.0,Rp 450.000,Surabaya 
+TRX-6153,2025-06-23,Keyboard Mekanik,1.0,450000,Yogyakarta
+TRX-8613,12/09/2025,Headset Gaming (Diskon),8.0,350000, Bandung
+TRX-9167,20/06/2025,mouse wireless,1.0,Rp 150.000, Medan 
+TRX-3900,2025-03-05,Mouse Wireless,,150000,Yogyakarta
+TRX-3803,"Jul 11, 2025",MONITOR 24 INCH,7.0,1750000,Yogyakarta
+TRX-8454,17/07/2025,Monitor 24 Inch,7.0,1750000,Jakarta
+TRX-4919,,,,Rp 8.500.000,Surabaya 
+TRX-4878,"Dec 21, 2025",LAPTOP,9.0,Rp 8.500.000,Jakarta
+TRX-2876,2025-11-13,HEADSET GAMING,7.0,Rp 350.000, Medan 
+TRX-5335,"Apr 7, 2025",monitor 24 inch,10.0,,Surabaya 
+TRX-8123,2025-11-13,Headset Gaming,3.0,350000,Surabaya 
+TRX-5465,2025-08-24,Mouse Wireless,8.0,150000, Medan 
+,"Mar 18, 2025",KEYBOARD MEKANIK,4.0,Rp 450.000, Medan 
+TRX-5741,23/06/2025,,1.0,8500000,Jakarta
+TRX-1711,2025-11-01,laptop,4.0,8500000,Surabaya 
+TRX-6529,"Sep 10, 2025",   Monitor 24 Inch ,8.0,Rp 1.750.000,Surabaya 
+TRX-9689,09/08/2025,Mouse Wireless,3.0,150000,Jakarta
+TRX-4033,"Oct 19, 2025",laptop,572.0,8500000,Yogyakarta
+TRX-6549,2025-09-21,keyboard mekanik,2.0,Rp 450.000, Medan 
+TRX-6576,2025-06-18,MOUSE WIRELESS,9.0,150000, Medan 
+TRX-8894,2025-06-06,mouse wireless,4.0,150000,Yogyakarta
+TRX-5279,2025-10-14,Laptop,4.0,,Yogyakarta
+TRX-6188,"Dec 19, 2025",Laptop,5.0,8500000, Bandung
+TRX-8827,2025-12-22,,8.0,8500000, Medan 
+TRX-6772,"Aug 4, 2025",   Headset Gaming ,6.0,, Bandung
+TRX-2320,2025-10-10,Monitor 24 Inch (Diskon),5.0,Rp 1.750.000,Jakarta
+TRX-4119,2025-03-03,LAPTOP,5.0,8500000,Jakarta
+TRX-1634,2025-03-18,mouse wireless,8.0,150000,Jakarta
+TRX-5397,09/12/2025,HEADSET GAMING,5.0,350000,Yogyakarta
+TRX-3236,"Jul 9, 2025",,3.0,8500000,Yogyakarta
+TRX-8744,,Monitor 24 Inch (Diskon),1.0,1750000,Surabaya 
+,2025-10-21,Keyboard Mekanik (Diskon),9.0,450000, Medan 
+TRX-9031,"Aug 16, 2025",LAPTOP,10.0,8500000, Bandung
+TRX-2129,08/03/2025,monitor 24 inch,,1750000,Jakarta
+TRX-6460,2025-11-04,Mouse Wireless,9.0,150000,Surabaya 
+TRX-2713,2025-03-16,Monitor 24 Inch,5.0,1750000, Bandung
+,26/03/2025,HEADSET GAMING,-4.0,Rp 350.000,Jakarta
+TRX-1958,07/06/2025,Monitor 24 Inch (Diskon),10.0,1750000,Jakarta
+TRX-7543,2025-10-17,Headset Gaming (Diskon),8.0,350000,Jakarta
+TRX-4680,2025-02-24,monitor 24 inch,10.0,1750000,Surabaya 
+TRX-7511,27/11/2025,,,Rp 8.500.000,Jakarta
+TRX-5978,"May 25, 2025",Laptop,6.0,8500000,
+TRX-1200,18/06/2025,,6.0,8500000, Medan 
+TRX-6635,"Nov 17, 2025",   Headset Gaming ,1.0,350000,Jakarta
+TRX-2796,"Jun 4, 2025",Keyboard Mekanik,9.0,Rp 450.000, Medan 
+TRX-8941,"Feb 17, 2025",MOUSE WIRELESS,5.0,150000,Jakarta
+,23/01/2025,,1.0,8500000,Yogyakarta
+TRX-9935,"Oct 1, 2025",laptop,785.0,8500000,
+TRX-1672,2025-02-02,Monitor 24 Inch,4.0,Rp 1.750.000,Yogyakarta
+TRX-9698,19/05/2025,Headset Gaming,1.0,350000,Jakarta
+TRX-4185,23/07/2025,mouse wireless,5.0,150000,Surabaya 
+TRX-7227,2025-09-20,KEYBOARD MEKANIK,3.0,450000,Yogyakarta
+TRX-5471,2025-12-24,Keyboard Mekanik,1.0,450000,Jakarta
+TRX-7916,"Sep 25, 2025",Mouse Wireless,6.0,150000, Medan 
+TRX-2746,26/01/2025,Keyboard Mekanik (Diskon),6.0,, Medan 
+TRX-7572,"Feb 14, 2025",MONITOR 24 INCH,7.0,1750000,
+TRX-1722,2025-11-19,Laptop,10.0,Rp 8.500.000,Jakarta
+TRX-9270,"Jun 12, 2025",Laptop (Diskon),7.0,8500000,
+TRX-4362,2025-04-19,Keyboard Mekanik,5.0,Rp 450.000,Jakarta
+TRX-1406,,KEYBOARD MEKANIK,9.0,450000,Jakarta
+TRX-2480,2025-09-19,Keyboard Mekanik (Diskon),9.0,Rp 450.000,Yogyakarta
+TRX-6813,05/02/2025,keyboard mekanik,10.0,Rp 450.000,Yogyakarta
+TRX-6139,"Sep 18, 2025",,2.0,Rp 8.500.000,Jakarta
+TRX-1919,2025-09-11,Monitor 24 Inch (Diskon),3.0,1750000, Bandung
+TRX-5161,2025-06-21,Mouse Wireless (Diskon),8.0,Rp 150.000, Medan 
+TRX-6310,16/10/2025,headset gaming,6.0,,Yogyakarta
+,12/01/2025,Mouse Wireless,6.0,150000,Jakarta
+TRX-1653,"Apr 27, 2025",,2.0,8500000,Yogyakarta
+TRX-2983,09/08/2025,,5.0,,Jakarta
+TRX-8450,02/03/2025,Monitor 24 Inch,1368.0,1750000,Jakarta
+TRX-6663,"Sep 17, 2025",,6.0,, Medan 
+TRX-4335,14/06/2025,laptop,1.0,8500000,Jakarta
+,"Aug 8, 2025",keyboard mekanik,2.0,450000,Jakarta
+TRX-9817,16/05/2025,laptop,-4.0,8500000, Bandung
+,2025-02-20,Headset Gaming,6.0,350000,Surabaya 
+TRX-3330,"Feb 21, 2025",Mouse Wireless,6.0,150000, Bandung
+TRX-5563,19/11/2025,Laptop (Diskon),3.0,Rp 8.500.000, Bandung
+TRX-4697,2025-12-09,laptop,10.0,8500000, Bandung
+TRX-3103,,headset gaming,9.0,350000,Yogyakarta
+TRX-7086,,Monitor 24 Inch (Diskon),8.0,1750000,Yogyakarta
+TRX-7658,,laptop,1.0,Rp 8.500.000, Bandung
+TRX-1821,"Jun 23, 2025",Laptop (Diskon),3.0,Rp 8.500.000,Yogyakarta
+TRX-1878,2025-05-08,KEYBOARD MEKANIK,1.0,450000, Medan 
+TRX-4241,16/08/2025,MOUSE WIRELESS,7.0,150000,Yogyakarta
+TRX-6439,2025-12-25,Headset Gaming,10.0,Rp 350.000,Yogyakarta
+TRX-3165,"Aug 18, 2025",   Keyboard Mekanik ,5.0,450000, Bandung
+TRX-5835,05/04/2025,monitor 24 inch,10.0,Rp 1.750.000, Medan 
+TRX-6272,2025-11-28,Headset Gaming,8.0,350000,Yogyakarta
+TRX-6421,"Nov 28, 2025",Mouse Wireless,6.0,Rp 150.000,Jakarta
+TRX-2627,2025-02-17,Keyboard Mekanik,9.0,Rp 450.000,Surabaya 
+TRX-7730,24/04/2025,MONITOR 24 INCH,4.0,1750000, Bandung
+TRX-1525,,KEYBOARD MEKANIK,10.0,Rp 450.000,Yogyakarta
+TRX-5345,2025-11-14,   Mouse Wireless ,6.0,150000,Jakarta
+TRX-7812,"Nov 12, 2025",Headset Gaming (Diskon),9.0,350000,Yogyakarta
+,2025-03-16,Mouse Wireless (Diskon),4.0,150000, Medan 
+TRX-9071,2025-10-17,Mouse Wireless,,150000, Medan 
+TRX-5315,"Jan 3, 2025",laptop,9.0,Rp 8.500.000, Medan 
+TRX-3697,2025-05-03,Headset Gaming,,350000, Bandung
+TRX-6419,01/06/2025,Laptop,8.0,8500000, Bandung
+TRX-1282,2025-10-11,Headset Gaming (Diskon),,Rp 350.000, Medan 
+TRX-4613,2025-02-03,Laptop,3.0,Rp 8.500.000,Yogyakarta
+TRX-9742,10/04/2025,Mouse Wireless,1.0,Rp 150.000,Yogyakarta
+TRX-5941,11/04/2025,Laptop,7.0,8500000,Yogyakarta
+TRX-3546,2025-12-25,Mouse Wireless,6.0,Rp 150.000, Medan 
+TRX-8657,"Nov 3, 2025",Laptop,9.0,8500000,Yogyakarta
+TRX-8484,,Mouse Wireless (Diskon),1.0,Rp 150.000, Bandung
+TRX-4456,2025-12-12,   Mouse Wireless ,7.0,Rp 150.000,Surabaya 
+TRX-8700,"Sep 11, 2025",Headset Gaming,8.0,350000,Jakarta
+TRX-8135,08/04/2025,LAPTOP,2.0,8500000, Medan 
+,"Jun 26, 2025",KEYBOARD MEKANIK,10.0,450000, Medan 
+TRX-5719,2025-04-22,Mouse Wireless,6.0,150000, Medan 
+TRX-5905,"Dec 17, 2025",Mouse Wireless,6.0,150000,Surabaya 
+TRX-4115,"Dec 16, 2025",Headset Gaming,7.0,350000, Medan 
+TRX-2697,,   Laptop ,3.0,Rp 8.500.000, Medan 
+TRX-4993,15/10/2025,keyboard mekanik,10.0,450000,Yogyakarta
+TRX-7658,,laptop,1.0,Rp 8.500.000, Bandung
+TRX-7232,2025-10-22,Monitor 24 Inch,1.0,1750000,Surabaya 
+TRX-4044,06/06/2025,Keyboard Mekanik,4.0,450000,Surabaya 
+TRX-4696,25/01/2025,Mouse Wireless,4.0,Rp 150.000,Jakarta
+TRX-7735,25/06/2025,   Monitor 24 Inch ,2.0,,Surabaya 
+TRX-9900,2025-03-05,Laptop,4.0,8500000,Surabaya 
+TRX-3607,22/08/2025,,8.0,Rp 8.500.000, Medan 
+TRX-5786,2025-09-25,Keyboard Mekanik,7.0,450000,
+TRX-1887,2025-11-27,LAPTOP,4.0,8500000,Yogyakarta
+TRX-2402,,headset gaming,2.0,Rp 350.000,Jakarta
+TRX-8222,08/12/2025,Laptop,4.0,8500000, Medan 
+TRX-7149,2025-10-05,MOUSE WIRELESS,6.0,Rp 150.000,Yogyakarta
+,"Jan 10, 2025",Monitor 24 Inch,1.0,Rp 1.750.000,
+TRX-9320,"Aug 17, 2025",Laptop,7.0,Rp 8.500.000, Bandung
+TRX-4728,2025-02-02,keyboard mekanik,9.0,450000,
+TRX-6409,"Mar 2, 2025",,9.0,8500000, Medan 
+TRX-9464,13/09/2025,MONITOR 24 INCH,5.0,Rp 1.750.000,Jakarta
+TRX-4841,"Feb 9, 2025",keyboard mekanik,2.0,450000,Jakarta
+TRX-6310,16/10/2025,headset gaming,6.0,,Yogyakarta
+TRX-8438,22/03/2025,keyboard mekanik,1.0,450000,Jakarta
+TRX-7246,24/09/2025,LAPTOP,4.0,Rp 8.500.000,Yogyakarta
+TRX-7267,"Jan 18, 2025",Monitor 24 Inch,6.0,Rp 1.750.000,Yogyakarta
+,2025-05-18,   Keyboard Mekanik ,2.0,,Surabaya 
+TRX-9199,"May 2, 2025",   Monitor 24 Inch ,9.0,Rp 1.750.000,Yogyakarta
+,11/11/2025,Mouse Wireless (Diskon),3.0,150000,Jakarta
+,18/12/2025,,1.0,8500000, Bandung
+TRX-8784,2025-02-03,Monitor 24 Inch,2.0,1750000,Surabaya 
+TRX-5853,"Apr 2, 2025",   Headset Gaming ,3.0,, Medan 
+TRX-1188,"Dec 9, 2025",monitor 24 inch,2.0,Rp 1.750.000,Jakarta
+TRX-4848,26/09/2025,headset gaming,8.0,350000,Yogyakarta
+TRX-7868,2025-12-28,monitor 24 inch,-4.0,, Bandung
+TRX-4830,14/01/2025,MOUSE WIRELESS,3.0,150000, Medan 
+TRX-8025,"Mar 10, 2025",mouse wireless,4.0,,Surabaya 
+TRX-9998,"Nov 27, 2025",monitor 24 inch,8.0,Rp 1.750.000,Surabaya 
+TRX-8622,12/02/2025,,-3.0,8500000, Medan 
+TRX-2625,"Feb 12, 2025",headset gaming,2.0,Rp 350.000,Surabaya 
+TRX-8486,01/04/2025,headset gaming,1.0,Rp 350.000,Surabaya 
+TRX-7693,19/04/2025,LAPTOP,1.0,8500000, Bandung
+TRX-4249,2025-12-11,Laptop,9.0,Rp 8.500.000,Yogyakarta
+TRX-2646,18/08/2025,MOUSE WIRELESS,,, Bandung
+TRX-9327,26/05/2025,,9.0,8500000,Jakarta
+TRX-5728,27/03/2025,Keyboard Mekanik (Diskon),3.0,Rp 450.000,Jakarta
+TRX-7396,28/02/2025,laptop,5.0,Rp 8.500.000,Yogyakarta
+TRX-2771,,LAPTOP,8.0,8500000,Yogyakarta
+TRX-1653,04/06/2025,   Keyboard Mekanik ,2.0,Rp 450.000, Medan 
+TRX-1609,"Sep 5, 2025",Keyboard Mekanik,6.0,450000,Yogyakarta
+TRX-8941,"Feb 17, 2025",MOUSE WIRELESS,5.0,150000,Jakarta
+TRX-5632,2025-06-23,Keyboard Mekanik,1.0,450000, Bandung
+TRX-2419,,Headset Gaming,8.0,350000,Jakarta
+TRX-4450,06/12/2025,Monitor 24 Inch,1.0,1750000,Surabaya 
+TRX-3306,"Feb 27, 2025",Monitor 24 Inch,6.0,1750000, Medan 
+TRX-2988,"Mar 28, 2025",KEYBOARD MEKANIK,7.0,450000, Bandung
+TRX-8532,2025-07-17,monitor 24 inch,,1750000,Surabaya 
+TRX-8245,,Headset Gaming (Diskon),2.0,350000, Bandung
+TRX-3442,"Sep 28, 2025",MOUSE WIRELESS,744.0,Rp 150.000, Bandung
+TRX-7209,2025-07-17,mouse wireless,6.0,150000, Medan 
+,2025-06-27,mouse wireless,7.0,Rp 150.000, Bandung
+TRX-8144,2025-06-09,MONITOR 24 INCH,8.0,1750000,Surabaya 
+TRX-4826,2025-09-13,laptop,7.0,8500000,Surabaya 
+TRX-6763,04/04/2025,Keyboard Mekanik,9.0,Rp 450.000,Surabaya 
+TRX-5082,"Nov 6, 2025",keyboard mekanik,3.0,450000,
+TRX-5861,"Aug 26, 2025",Mouse Wireless,5.0,150000,Yogyakarta
+TRX-9238,2025-11-06,Keyboard Mekanik (Diskon),3.0,, Bandung
+TRX-4912,21/06/2025,Laptop,8.0,8500000,Jakarta
+TRX-5334,06/07/2025,Mouse Wireless,4.0,150000, Bandung
+TRX-8679,"Jan 27, 2025",Keyboard Mekanik (Diskon),4.0,450000,Yogyakarta
+TRX-2193,2025-05-10,Keyboard Mekanik (Diskon),6.0,450000, Medan 
+TRX-5210,16/08/2025,monitor 24 inch,8.0,1750000,Surabaya 
+TRX-5781,23/10/2025,Keyboard Mekanik,7.0,450000,Jakarta
+TRX-3068,16/12/2025,MONITOR 24 INCH,9.0,1750000,Yogyakarta
+TRX-5033,03/06/2025,Headset Gaming,2.0,Rp 350.000,Jakarta
+TRX-9742,10/04/2025,Mouse Wireless,1.0,Rp 150.000,Yogyakarta
+TRX-2874,25/10/2025,keyboard mekanik,,450000, Medan 
+TRX-7078,"Aug 19, 2025",Headset Gaming (Diskon),10.0,350000, Bandung
+TRX-9830,24/01/2025,KEYBOARD MEKANIK,,450000,Surabaya 
+TRX-1241,10/05/2025,Mouse Wireless,7.0,150000,Jakarta
+TRX-7141,14/03/2025,Monitor 24 Inch,2.0,1750000, Medan 
+TRX-6927,"Aug 5, 2025",   Monitor 24 Inch ,9.0,1750000, Medan 
+TRX-7484,"Dec 22, 2025",keyboard mekanik,10.0,450000,Yogyakarta
+TRX-5889,2025-12-11,Laptop (Diskon),6.0,8500000,Surabaya 
+TRX-8019,"Oct 10, 2025",Monitor 24 Inch,5.0,Rp 1.750.000,Jakarta
+TRX-4441,12/01/2025,Laptop,9.0,8500000,Surabaya 
+TRX-3646,2025-10-02,Laptop,10.0,8500000,Yogyakarta
+TRX-1333,"Feb 2, 2025",keyboard mekanik,1.0,, Medan 
+TRX-4608,13/12/2025,Headset Gaming,3.0,350000,Surabaya 
+TRX-5543,13/06/2025,   Laptop ,2.0,8500000,Surabaya 
+TRX-5573,"Aug 20, 2025",headset gaming,6.0,350000, Bandung
+TRX-7248,2025-06-10,   Mouse Wireless ,,150000, Medan 
+TRX-5291,2025-07-17,Mouse Wireless,,, Bandung
+TRX-6574,"Aug 15, 2025",Mouse Wireless,9.0,Rp 150.000, Medan 
+TRX-1916,"Nov 16, 2025",Monitor 24 Inch,,Rp 1.750.000,Surabaya 
+TRX-6820,2025-11-21,laptop,,8500000, Bandung
+TRX-2684,13/09/2025,Keyboard Mekanik,5.0,450000, Medan 
+TRX-3584,"Aug 7, 2025",Mouse Wireless (Diskon),5.0,150000,
+TRX-7807,2025-07-19,mouse wireless,5.0,150000,Yogyakarta
+TRX-3529,,MONITOR 24 INCH,10.0,1750000,Jakarta
+TRX-4846,2025-03-22,,8.0,, Medan 
+TRX-3414,14/10/2025,Monitor 24 Inch,,1750000,Jakarta
+TRX-6374,,Keyboard Mekanik (Diskon),9.0,450000,Jakarta
+TRX-8062,04/09/2025,Mouse Wireless,7.0,,Jakarta
+TRX-7304,"Oct 22, 2025",headset gaming,-5.0,350000,Surabaya 
+TRX-8777,"Jun 15, 2025",mouse wireless,1.0,150000, Bandung
+TRX-3950,08/04/2025,laptop,9.0,8500000,Yogyakarta
+TRX-6582,2025-03-15,monitor 24 inch,4.0,1750000, Medan 
+TRX-8237,,Headset Gaming,1.0,350000,Yogyakarta
+TRX-5065,01/02/2025,monitor 24 inch,6.0,Rp 1.750.000,
+TRX-4770,2025-06-17,laptop,1.0,Rp 8.500.000,Surabaya 
+TRX-8517,2025-02-14,Laptop,,8500000,Jakarta
+TRX-9850,2025-12-08,Monitor 24 Inch,5.0,1750000,Yogyakarta
+TRX-7484,23/04/2025,Monitor 24 Inch (Diskon),,Rp 1.750.000,Surabaya 
+TRX-5844,26/03/2025,Headset Gaming,2.0,350000, Bandung
+TRX-5415,2025-12-15,keyboard mekanik,8.0,450000,Jakarta
+TRX-5051,"Jan 27, 2025",   Monitor 24 Inch ,8.0,Rp 1.750.000,Yogyakarta
+TRX-5066,2025-04-23,Keyboard Mekanik,,450000, Bandung
+TRX-9056,21/07/2025,Monitor 24 Inch,,1750000, Medan 
+,"Sep 18, 2025",monitor 24 inch,3.0,Rp 1.750.000,Jakarta
+TRX-5649,"Jul 11, 2025",Mouse Wireless,8.0,,Surabaya 
+TRX-7912,2025-03-05,LAPTOP,10.0,8500000,Jakarta
+TRX-1320,2025-12-23,Headset Gaming,10.0,,
+TRX-7018,"Apr 7, 2025",Headset Gaming,2.0,Rp 350.000,Jakarta
+TRX-5526,"Dec 7, 2025",Monitor 24 Inch,3.0,1750000, Bandung
+TRX-2790,2025-11-03,Laptop,,8500000,Surabaya 
+TRX-7291,2025-08-12,laptop,6.0,8500000,Surabaya 
+TRX-8213,2025-11-14,Laptop,8.0,8500000,Jakarta
+TRX-5951,"Nov 14, 2025",Keyboard Mekanik,6.0,450000, Bandung
+TRX-6279,2025-11-07,,2.0,8500000, Bandung
+TRX-7818,"Jun 16, 2025",KEYBOARD MEKANIK,5.0,450000, Medan 
+TRX-7658,2025-07-03,Monitor 24 Inch (Diskon),8.0,Rp 1.750.000, Medan 
+TRX-2612,2025-02-05,   Keyboard Mekanik ,6.0,450000, Medan 
+TRX-6111,16/08/2025,monitor 24 inch,8.0,Rp 1.750.000,Surabaya 
+TRX-9375,09/02/2025,Mouse Wireless (Diskon),3.0,Rp 150.000,
+TRX-2743,11/03/2025,   Mouse Wireless ,4.0,150000,Yogyakarta
+TRX-2899,2025-11-04,Mouse Wireless,2.0,Rp 150.000,Surabaya 
+TRX-2489,2025-02-12,   Monitor 24 Inch ,3.0,1750000,Jakarta
+TRX-5010,"Jul 14, 2025",headset gaming,3.0,Rp 350.000,Surabaya 
+TRX-4920,23/06/2025,,9.0,8500000,Yogyakarta
+TRX-9751,22/09/2025,Headset Gaming,9.0,350000, Medan 
+TRX-9041,20/09/2025,   Mouse Wireless ,2.0,150000, Bandung
+TRX-4228,2025-11-21,laptop,10.0,,Surabaya 
+TRX-5915,2025-10-23,keyboard mekanik,8.0,450000,
+TRX-6977,26/12/2025,   Monitor 24 Inch ,9.0,1750000, Medan 
+TRX-5374,"Sep 24, 2025",,,8500000, Medan 
+TRX-4585,,laptop,8.0,8500000, Bandung
+TRX-7865,12/09/2025,,5.0,Rp 8.500.000,Jakarta
+TRX-9922,25/05/2025,Laptop,10.0,8500000,
+TRX-3749,2025-05-16,keyboard mekanik,2.0,Rp 450.000,Yogyakarta
+TRX-6091,,Mouse Wireless,5.0,150000,Jakarta
+TRX-2832,2025-11-16,Monitor 24 Inch,1113.0,Rp 1.750.000,Jakarta
+TRX-1339,07/02/2025,Keyboard Mekanik,3.0,Rp 450.000,Jakarta
+TRX-4626,"Sep 10, 2025",Monitor 24 Inch,7.0,1750000,Yogyakarta
+,"Nov 17, 2025",laptop,1.0,,Surabaya 
+TRX-5889,2025-12-11,Laptop (Diskon),6.0,8500000,Surabaya 
+TRX-2293,2025-12-05,mouse wireless,9.0,150000, Medan 
+TRX-2188,"May 18, 2025",LAPTOP,2.0,8500000,Jakarta
+TRX-1651,2025-11-13,laptop,10.0,8500000, Medan 
+TRX-4920,23/06/2025,,9.0,8500000,Yogyakarta
+TRX-9928,"Apr 19, 2025",Monitor 24 Inch (Diskon),10.0,1750000,Yogyakarta
+TRX-4937,"Aug 17, 2025",Headset Gaming (Diskon),1.0,350000, Bandung
+TRX-9751,2025-08-11,Headset Gaming,8.0,350000,Yogyakarta
+TRX-3504,2025-01-05,,4.0,8500000, Medan 
+TRX-8018,2025-07-28,Monitor 24 Inch,,1750000,Surabaya 
+TRX-6514,2025-09-08,MONITOR 24 INCH,5.0,1750000,Yogyakarta
+TRX-7939,2025-08-27,HEADSET GAMING,,350000, Medan 
+TRX-9179,18/09/2025,Mouse Wireless (Diskon),10.0,Rp 150.000,Surabaya 
+TRX-5689,21/06/2025,Laptop,8.0,8500000,Yogyakarta
+TRX-3441,2025-11-02,Laptop (Diskon),5.0,8500000, Medan 
+TRX-9346,21/09/2025,Headset Gaming,,Rp 350.000,Surabaya 
+TRX-2911,"Mar 4, 2025",MOUSE WIRELESS,-5.0,150000,Yogyakarta
+TRX-3780,"Jul 13, 2025",Mouse Wireless,8.0,, Bandung
+TRX-9889,21/05/2025,   Headset Gaming ,2.0,,Yogyakarta
+,2025-10-05,keyboard mekanik,8.0,450000, Medan 
+TRX-8668,01/10/2025,Monitor 24 Inch,1086.0,1750000, Medan 
+TRX-4846,2025-06-09,   Mouse Wireless ,6.0,Rp 150.000, Medan 
+TRX-9779,09/11/2025,Mouse Wireless,10.0,150000, Bandung
+TRX-8251,,   Monitor 24 Inch ,5.0,Rp 1.750.000, Medan 
+TRX-4143,,Mouse Wireless (Diskon),5.0,150000,Surabaya 
+TRX-4443,"Sep 16, 2025",Laptop,3.0,8500000, Medan 
+,"Jun 13, 2025",Keyboard Mekanik (Diskon),5.0,450000,
+TRX-3001,09/09/2025,,1.0,8500000,Surabaya 
+TRX-6876,"Dec 19, 2025",HEADSET GAMING,3.0,350000,Jakarta
+TRX-2052,2025-12-15,mouse wireless,,Rp 150.000,
+TRX-4608,13/12/2025,Headset Gaming,3.0,350000,Surabaya 
+TRX-5708,14/05/2025,Laptop,9.0,8500000, Bandung
+TRX-6383,"Jan 5, 2025",Laptop,9.0,8500000,Yogyakarta
+TRX-2052,2025-12-15,mouse wireless,,Rp 150.000,
+TRX-1444,25/03/2025,mouse wireless,2.0,150000, Medan 
+TRX-2146,2025-10-24,Laptop,7.0,8500000, Medan 
+TRX-8007,"Mar 28, 2025",Mouse Wireless (Diskon),9.0,150000,Surabaya 
+TRX-6403,2025-04-01,HEADSET GAMING,3.0,Rp 350.000, Bandung
+TRX-1153,,Monitor 24 Inch (Diskon),3.0,1750000, Bandung
+TRX-2604,"Nov 11, 2025",Keyboard Mekanik,6.0,450000, Medan 
+TRX-6280,2025-11-18,KEYBOARD MEKANIK,6.0,450000,Jakarta
+TRX-5012,"Apr 19, 2025",Monitor 24 Inch,2.0,Rp 1.750.000, Medan 
+TRX-5583,13/09/2025,laptop,2.0,8500000,Surabaya 
+TRX-7118,27/11/2025,Keyboard Mekanik,6.0,Rp 450.000,Yogyakarta
+TRX-7691,23/08/2025,,1.0,Rp 8.500.000,Jakarta
+TRX-4598,2025-05-12,Monitor 24 Inch,575.0,1750000, Bandung
+TRX-5835,2025-09-16,Mouse Wireless (Diskon),1.0,150000, Medan 
+TRX-3369,,HEADSET GAMING,3.0,Rp 350.000,Surabaya 
+TRX-7512,18/04/2025,mouse wireless,9.0,150000, Bandung
+TRX-4404,"Nov 9, 2025",Mouse Wireless,3.0,150000, Bandung
+TRX-4510,13/09/2025,Monitor 24 Inch (Diskon),8.0,Rp 1.750.000,Surabaya 
+TRX-8933,2025-01-19,HEADSET GAMING,4.0,350000, Medan 
+TRX-1745,14/12/2025,   Laptop ,2.0,Rp 8.500.000,Surabaya 
+TRX-5050,"Oct 5, 2025",Keyboard Mekanik,5.0,,Jakarta
+TRX-4527,"Sep 19, 2025",laptop,4.0,8500000,Surabaya 
+TRX-8385,,keyboard mekanik,9.0,,
+TRX-8172,,,7.0,8500000,Jakarta
+TRX-4467,"Apr 12, 2025",Mouse Wireless,3.0,, Medan 
+TRX-3426,2025-08-17,Monitor 24 Inch,6.0,1750000,Surabaya 
+,"Feb 17, 2025",Monitor 24 Inch,8.0,1750000, Bandung
+TRX-8916,07/08/2025,headset gaming,4.0,350000,Jakarta
+TRX-7201,13/07/2025,monitor 24 inch,1406.0,1750000,Jakarta
+TRX-6994,22/06/2025,laptop,6.0,, Medan 
+TRX-9540,08/02/2025,laptop,2.0,8500000, Bandung
+TRX-1452,2025-01-20,headset gaming,3.0,350000, Medan 
+TRX-5161,2025-06-21,Mouse Wireless (Diskon),8.0,Rp 150.000, Medan 
+TRX-8673,"Sep 2, 2025",headset gaming,10.0,350000,Jakarta
+TRX-1053,,Laptop (Diskon),1.0,8500000,Surabaya 
+TRX-3344,13/04/2025,headset gaming,1.0,350000, Medan 
+TRX-6421,"Nov 28, 2025",Mouse Wireless,6.0,Rp 150.000,Jakarta
+TRX-6925,"Feb 3, 2025",   Mouse Wireless ,5.0,150000, Bandung
+TRX-5022,2025-07-12,mouse wireless,10.0,150000,Jakarta
+TRX-1588,11/04/2025,KEYBOARD MEKANIK,1.0,450000,Yogyakarta
+TRX-8239,06/04/2025,Laptop,8.0,8500000,
+TRX-7906,18/05/2025,mouse wireless,3.0,Rp 150.000,Jakarta
+TRX-5349,2025-11-03,LAPTOP,4.0,8500000,Surabaya 
+TRX-7594,2025-08-06,Keyboard Mekanik,4.0,450000, Bandung
+TRX-1845,18/08/2025,Monitor 24 Inch,,1750000,Yogyakarta
+TRX-9138,2025-05-13,Laptop,10.0,Rp 8.500.000,
+TRX-3939,23/02/2025,monitor 24 inch,2.0,1750000, Medan 
+TRX-9548,02/01/2025,Monitor 24 Inch,9.0,1750000, Medan 
+TRX-9565,20/03/2025,Mouse Wireless (Diskon),1.0,150000, Bandung
+,2025-03-20,   Monitor 24 Inch ,10.0,1750000,Jakarta
+TRX-4792,2025-04-02,   Headset Gaming ,4.0,Rp 350.000, Medan 
+TRX-1964,11/03/2025,mouse wireless,8.0,150000,Surabaya 
+TRX-8994,2025-10-25,Keyboard Mekanik,3.0,450000,Surabaya 
+TRX-4986,"Oct 11, 2025",keyboard mekanik,5.0,450000,Surabaya 
+TRX-8244,2025-01-28,keyboard mekanik,9.0,450000,Yogyakarta
+TRX-1753,2025-11-22,Keyboard Mekanik,6.0,450000,Jakarta
+TRX-9701,,headset gaming,8.0,Rp 350.000, Bandung
+,16/12/2025,Laptop,2.0,Rp 8.500.000,Surabaya 
+TRX-2290,16/09/2025,Mouse Wireless (Diskon),6.0,Rp 150.000,Surabaya 
+,2025-02-16,monitor 24 inch,8.0,1750000,Jakarta
+TRX-8022,28/01/2025,Keyboard Mekanik,10.0,450000, Bandung
+TRX-9022,25/03/2025,MOUSE WIRELESS,3.0,, Medan 
+TRX-3296,19/10/2025,MONITOR 24 INCH,,1750000,Surabaya 
