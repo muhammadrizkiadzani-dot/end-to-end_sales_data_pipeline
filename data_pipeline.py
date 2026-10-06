@@ -87,7 +87,7 @@ print(f"Rows sebelum cleaning = {rows_sebelum}")
 print(f"Rows sesudah cleaning = {rows_sesudah}")
 print(f" Total duplikat yang dibuang = {data_dibuang}")
 
-#menyumpan kembali ke variabel df utama 
+#menyimpan kembali ke variabel df utama 
 df = df_cleaned
 
 
