@@ -38,7 +38,7 @@ SELECT
 FROM produksi
 GROUP BY "Produk"
 
---Untuk melihat data anomaly pada setiap kolom
+--Untuk melihat data anomali pada setiap kolom
 SELECT *
 FROM produksi
 WHERE "Jumlah" <=0 OR "Harga_Satuan" <=0 OR "Total_Penjualan" IS NULL
@@ -54,3 +54,21 @@ FROM produksi
 GROUP BY "Produk"
 ORDER BY total_barang_terjual DESC
 LIMIT 5;
+
+SELECT DISTINCT "Kota_Toko", LENGTH("Kota_Toko")
+FROM produksi;
+
+--SQL MENGUBAH NILAI Kota_Toko
+UPDATE produksi
+SET "Kota_Toko" = 'Unknown'
+WHERE "Kota_Toko" = 'Tanpa Data';
+
+--SQL MENGUBAH NILAI Bulan
+UPDATE produksi
+SET "Bulan" = 'Unknown'
+WHERE "Bulan" = 'Tanpa Data';
+
+--SQL MENGUBAH NILAI DATA YG RUSAK MENJADI 0
+UPDATE produksi
+SET "Nomor_Bulan" = 0
+WHERE TRIM("Nomor_Bulan") = 'Tanpa Data' OR "Nomor_Bulan" IS NULL ;
