@@ -1,7 +1,7 @@
 # End-to-End Sales Data Pipeline: Cleaning, Processing, and Power BI Visualization
 
 ## Project Overview
-In real-world industries, raw transactional data is rarely clean. This project demonstrates an end-to-end data engineering and analytics pipeline designed to extract, transform, and ingest a chaotic, multi-city retail transactional dataset into a production-ready PostgreSQL database, and subsequently present the insights through an interactive Power BI dashboard.
+In real world industries, raw transactional data is rarely clean. This project demonstrates an end-to-end data engineering and analytics pipeline designed to extract, transform, and ingest a chaotic, multi city retail transactional dataset into a production-ready PostgreSQL database, and subsequently present the insights through an interactive Power BI dashboard.
 
 By building this pipeline, I successfully established rigorous **data quality** controls, handled multiple data anomalies, performed feature engineering, and designed business intelligence dashboards optimized for deep operational trend analysis.
 
@@ -30,7 +30,7 @@ By building this pipeline, I successfully established rigorous **data quality** 
 ### 1. Data Cleaning & Standardization
 - **Currency & Numeric Refinement:** Stripped currency symbols ("Rp"), removed thousands separators (dots), and converted the `Harga_Satuan` column into standard integers for mathematical operations.
 - **Text Uniformity:** Handled string variations by stripping hidden whitespaces, converting `Produk` names to strict UPPERCASE, and standardizing `Kota_Toko` names to Title Case to eliminate categorical duplication.
-- **Inconsistent Date Parsing:** Resolved chaotic, mixed-format date entries (e.g., "08/08/2025", "Aug 4, 2025", "2025-09-13") using modern datetime parsing to enforce structural data integrity.
+- **Inconsistent Date Parsing:** Resolved chaotic, mixed format date entries (e.g., "08/08/2025", "Aug 4, 2025", "2025-09-13") using modern datetime parsing to enforce structural data integrity.
 
 ### 2. Anomaly Detection & Quality Control
 - **Negative Values Isolation:** Built a validation layer to identify and isolate faulty system logs, such as negative order quantities (`Jumlah < 0`), preventing them from skewing business logic.
@@ -50,9 +50,9 @@ By building this pipeline, I successfully established rigorous **data quality** 
 Once the clean data is safely ingested into PostgreSQL, I developed an analytical layer consisting of optimized SQL business queries designed to unlock actionable insights for management:
 
 1. **Trend Analysis (Monthly Revenue Performance):** Aggregates total monthly revenue and average transaction values to help operations monitor seasonal demand cycles.
-2. **Operational Efficiency (Top Invoicing Tracking):** Isolates the highest-value transactions and total item quantities per invoice to assist logistics team handling.
+2. **Operational Efficiency (Top Invoicing Tracking):** Isolates the highest value transactions and total item quantities per invoice to assist logistics team handling.
 3. **Geographical Breakdown (Branch Performance):** Ranks branch cities by total unique transactions and revenue generation to optimize regional supply chain distribution.
-4. **Inventory Management (Top Products Analytics):** Identifies the top 5 high-demand items to prevent stockout scenarios and support demand forecasting.
+4. **Inventory Management (Top Products Analytics):** Identifies the top 5 high demand items to prevent stockout scenarios and support demand forecasting.
 5. **Quality Control & Audit (Operational Anomaly Scanning):** Runs automated data integrity audits to instantly catch any broken records or systemic logging failures.
 
 ---
