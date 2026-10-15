@@ -1,17 +1,27 @@
-# End-to-End Sales Data Pipeline: Cleaning and Processing Dirty Data Using Python (Pandas) and PostgreSQL
+# End-to-End Sales Data Pipeline: Cleaning, Processing, and Power BI Visualization
 
 ## Project Overview
-In real-world industries, raw transactional data is rarely clean. This project demonstrates an end-to-end data engineering and analytics pipeline designed to extract, transform, and ingest a chaotic, multi-city retail transactional dataset into a production-ready PostgreSQL database. 
+In real-world industries, raw transactional data is rarely clean. This project demonstrates an end-to-end data engineering and analytics pipeline designed to extract, transform, and ingest a chaotic, multi-city retail transactional dataset into a production-ready PostgreSQL database, and subsequently present the insights through an interactive Power BI dashboard.
 
-By building this pipeline, I successfully established rigorous **data quality** controls, handled multiple data anomalies, and performed feature engineering to make the dataset fully optimized for database warehousing, business intelligence dashboards, and deep operational trend analysis.
+By building this pipeline, I successfully established rigorous **data quality** controls, handled multiple data anomalies, performed feature engineering, and designed business intelligence dashboards optimized for deep operational trend analysis.
 
 ---
 
 ## Tech Stack & Tools
-- **Language:** Python , SQL
+- **Language:** Python, SQL
 - **Libraries:** Pandas (Data Manipulation), SQLAlchemy & Psycopg2 (Database Ingestion)
 - **Database Warehouse:** PostgreSQL
+- **Business Intelligence:** Power BI
 - **Dataset:** 500 rows of raw, unstandardized transactional data spanning multiple cities (Jakarta, Bandung, Surabaya, Medan, Yogyakarta).
+
+---
+
+## Repository Structure
+
+* `dataset_kotor_500_baris.csv`: Raw dataset containing unstandardized transactional retail data (dirty data requiring transformation).
+* `data_pipeline.py`: Python script utilizing Pandas to clean data, handle missing values, standardize data formats, and prepare production-ready data.
+* `business_queries.sql`: Optimized SQL queries designed to analyze monthly sales performance, revenue trends, and market segmentation within PostgreSQL.
+* `Visualization Power BI/`: Dedicated folder housing visual documentation, screenshots, and interactive dashboard layouts generated from Power BI.
 
 ---
 
@@ -47,6 +57,13 @@ Once the clean data is safely ingested into PostgreSQL, I developed an analytica
 
 ---
 
+## Data Visualization (`Visualization Power BI/`)
+The cleaned database records are seamlessly connected to Power BI to generate an executive-level interactive dashboard. The complete visual documentation is structured inside the visualization folder, showcasing:
+* **Dashboard Overview**: Comprehensive layout summarizing core revenue metrics and overall sales volumes.
+* **Granular Filtering Layers**: Dynamically filtered reports segmented by *Product*, *City*, and *Month* to deliver precise cross-sectional business analysis.
+
+---
+
 ## How to Run the Project
 
 1. **Prerequisites:** Ensure you have PostgreSQL running locally and python packages installed:
@@ -56,14 +73,15 @@ Once the clean data is safely ingested into PostgreSQL, I developed an analytica
 2. **Database Setup:** Create a local database named `produksi_db`.
 3. **Execution:** Update the database credentials in the script and run it:
    ```bash
-   data_pipeline.py
+   python data_pipeline.py
    ```
 4. **Analytics:** Open your PostgreSQL tool (e.g., pgAdmin) and execute the scripts inside `business_queries.sql` to generate executive reports.
+5. **Dashboard:** Import the structured data into Power BI Desktop to replicate or explore the interactive reporting charts.
 
 ---
 
 ## Business Insights Generated
-By establishing this automated pipeline and query layer, the data is now structured to easily unlock:
+By establishing this automated pipeline, query layer, and BI dashboard, the data is now structured to easily unlock:
 - Monthly operational and sales volume trends.
 - Revenue breakdown and performance analysis per city branch.
 - Inventory movement tracking to support demand forecasting.
